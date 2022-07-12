@@ -11,20 +11,20 @@ When you use this code, please cite the following paper:
      conda activate tensorflow    
      python reddit_data_scraping.py   
      ```    
-  3. Run "ace_classification_models.py" by, for example,
+  3. Run "ace_classification_models.py" in Spyder or by, for example,
      ```    
      python ace_classification_models.py   
      ``` 
-  4. Run "twint_scraping_root_users.py" by, for example,
+  4. Run "twint_scraping_root_users.py" in Spyder or by, for example,
      ```    
      python twint_scraping_root_users.py  
      ``` 
-  5. Deactivate tensorflow environment, and then run "tweepy_get_followerships.py" by, for example,
+  5. Deactivate tensorflow environment, and then run "tweepy_get_followerships.py" in Spyder or by, for example,
      ```    
      conda deactivate
      python tweepy_get_followerships.py
      ```      
-  6. Activate tensorflow environment, and then run "calculate_homophily.py" by, for example,
+  6. Activate tensorflow environment, and then run "calculate_homophily.py" in Spyder or by, for example,
      ```    
      conda activate tensorflow
      python calculate_homophily.py 
