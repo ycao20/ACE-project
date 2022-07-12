@@ -22,12 +22,12 @@ When you use this code, please cite the following paper:
   5. Deactivate tensorflow environment, and then run "tweepy_get_followerships.py" by, for example,
      ```    
      conda deactivate
-     tweepy_get_followerships.py
+     python tweepy_get_followerships.py
      ```      
   6. Activate tensorflow environment, and then run "calculate_homophily.py" by, for example,
      ```    
      conda activate tensorflow
-     calculate_homophily.py 
+     python calculate_homophily.py 
      ```
 ## Software Requirement
 Python 3.8+ in Anaconda Spyder environment.
