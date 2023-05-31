@@ -2,7 +2,7 @@
 
 When you use this code, please cite the following paper:
 
-"PAPER INFORMATION TO COME HERE"
+Cao Y, Rajendran S, Sundararajan P, Law R, Bacon S, Sumner S, Masuda N. Web-Based Social Networks of Individuals With Adverse Childhood Experiences: Quantitative Study. _J Med Internet Res 2023_;25:e45171, URL: https://www.jmir.org/2023/1/e45171, DOI: 10.2196/45171.
 
 ## Usage 
   1. Download all files in the same folder.
